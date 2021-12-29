@@ -1,0 +1,2 @@
+# myprivatevpn
+autofile
